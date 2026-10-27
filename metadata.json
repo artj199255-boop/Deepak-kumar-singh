@@ -1,0 +1,10 @@
+{
+  "name": "SHREE AI - Neural Voice Assistant",
+  "description": "Bilingual Hindi & Hinglish intelligent neural voice assistant with live speech synthesis, shortcuts for YouTube, Maps, Search, and tactical HUD controls.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
